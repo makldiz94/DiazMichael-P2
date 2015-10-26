@@ -1,0 +1,55 @@
+.background    { background: black;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("http://vignette3.wikia.nocookie.net/tibia/images/a/aa/Lava.gif/revision/20141116212949?path-prefix=en");
+			background-size: 40px 40px;}
+.wall          { background-image: url("http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0464/6961/rr12x12_Dirt_Block_2015_shop_thumb.png");  
+			background-size: 40px 40 px;}
+
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("http://vignette2.wikia.nocookie.net/clickerheroes/images/f/f0/Ring03.png"); 
+		background-size:100%}
+.player { background: rgb(0, 205, 205); }
+.rock {background-image: url("http://www.terrariaonline.com/attachments/hell_wisp-gif.132689/");
+		background-size:100%}
+.rock2 {background-image: url("http://www.terrariaonline.com/attachments/hell_wisp-gif.132689/");
+		background-size:100%}
+.text {background-image: url("http://i.imgur.com/REQ3HKx.jpg");
+		background-size: 100%;}
+.text2 {background-image:url("http://i.imgur.com/i0KMCTW.png");
+		background-size: 100%;}
+.text3 {background-image:url("http://i.imgur.com/jAEuJP5.png");
+		background-size: 100%;}
+.text4  {background-image:url("http://i.imgur.com/Rg61UEo.png");
+		background-size:100%;}
+.text5 {background-image: url("http://i.imgur.com/CzzwZL6.png");
+		background-size:100%;}
+.sjump {background-image: url("http://orig15.deviantart.net/83c5/f/2012/316/3/2/32a49e22d49dde7ecfdabc9e010b89a2-d5kslzg.png");
+		background-size: 120%;
+		border-style: solid;
+		border-width: 2px;
+		border-color: green;}
+.rail { background: rgb(208,208,208);
+		height=50%}
+.boss{ background-image: url("http://img2.wikia.nocookie.net/__cb20111120224110/finalfantasy/images/e/ec/DesperadoChaosRender.png");
+	background-size: 100%;}		
+.finaltext {background-image: url("http://i.imgur.com/97JgKAs.png");
+	background-size:100%}
+.game {
+  overflow: hidden;
+  max-width: 655px;
+  max-height: 500px;
+  position: relative;
+}
+
+.lost .player {
+  opacity:0.6;
+  background-image: url("http://media.giphy.com/media/v60i3qrc9hni0/giphy.gif");
+}
+.won .player {
+  box-shadow: -4px -7px 8px blue, 4px -7px 8px blue;
+}
+
+/*.lava          { background: rgb(139, 0, 139); }
