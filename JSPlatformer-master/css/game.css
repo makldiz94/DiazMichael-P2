@@ -50,6 +50,7 @@
 }
 .won .player {
   box-shadow: -4px -7px 8px blue, 4px -7px 8px blue;
+  background-image: url("http://media.giphy.com/media/v60i3qrc9hni0/giphy.gif");
 }
 
 /*.lava          { background: rgb(139, 0, 139); }

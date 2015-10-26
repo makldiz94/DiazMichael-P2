@@ -76,7 +76,7 @@ var GAME_LEVELS = [
    "      xxx                   xxx  xx                                                                xxxxxxxxxxxxxxxxxxxxxxxxxxxx      x x ",
    "      x x                   x x                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxx      x x ",
    "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!xxxxxxx    x x             ",
-   "!!!!!!!!             vvvvvv   vvvvvv   vvvvv          v             v     v               v v                                        x x  ",
+   "!!!!!!!!             vvvvv    vvvvvv   vvvvv          v             v     v               v v                                        x x  ",
    "!!!!!!!!!    o  o                                                                                                                    x x  ",
    "!!!!!!!!                                                                                                                             x x  ",
    "!!!!!!!!!!  o    o                                                                                                                   x x  ",
@@ -122,7 +122,7 @@ var GAME_LEVELS = [
    "!!!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx!!!!!!!!!!!!!!!!!!!!!",
    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"],
    
-  ["              Z                                                                                   ",
+  ["              Z                                                 ",
    "                                                                                               ",
    "                                                                                                  ",
    "                                                                                                 ",

@@ -665,5 +665,5 @@ function runGame(plans, Display) {
         startLevel(1);
     });
   }
-  startLevel(1);
+  startLevel(0);
 }
